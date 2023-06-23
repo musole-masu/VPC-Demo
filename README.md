@@ -13,7 +13,7 @@ This configuration will create an Internet Gateway to connect the VPC to the Int
 Additionally, it will create a route table to govern network traffics between the VPC public subnet and its Internet gateway
 ![image](https://github.com/musole-masu/VPC-Demo/assets/85555092/6a69a7f9-a57f-4dd7-99a2-8623e7fb3a3f)
 
-
+Finally, within this VPC an EC2 instance with an Apache HTTP Server already up, running, and delivering a simple HTML page at the instance default route "/".
 
 ![image](https://github.com/musole-masu/VPC-Demo/assets/85555092/f0aff1dd-bf1d-4e25-bd46-737e48c6bf84)
 
